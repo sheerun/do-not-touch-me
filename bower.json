@@ -1,0 +1,23 @@
+{
+  "name": "do-not-touch-me",
+  "version": "0.0.1",
+  "authors": [
+    "Adam Stankiewicz <sheerun@sher.pl>"
+  ],
+  "description": "Package to be removed",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "keywords": [
+    "dummy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
